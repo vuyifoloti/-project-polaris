@@ -36,3 +36,4 @@ These findings help us understand where attrition is most likely to happen and w
 Next step – an interactive tool
 
 To make this insight practical, we built an interactive app where stakeholders can explore predictions and drivers directly.
+You can explore the model drive app here: [](https://project-polaris.streamlit.app)
